@@ -7,3 +7,4 @@ pip3 install -r requirements.txt
 then run:
 docker compose up
 
+use the notebook in scraper/main.ipynb
